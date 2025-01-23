@@ -18,7 +18,7 @@ A simple contact form built with React.js, Bootstrap, and Axios that allows user
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/contact-form-app.git
+   git clone https://github.com/nileshnwani/contact-form-app.git
    
 2. Navigate to the project directory:
     ```bash
