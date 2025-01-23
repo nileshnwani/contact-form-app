@@ -21,12 +21,15 @@ A simple contact form built with React.js, Bootstrap, and Axios that allows user
    git clone https://github.com/your-username/contact-form-app.git
    
 2. Navigate to the project directory:
+    ```bash
    cd contact-form-app
 
-3. Install dependencies:
+4. Install dependencies:
+   ```bash
    npm install
 
-4. Start App
+5. Start App
+   ```bash
    npm start
 
    
