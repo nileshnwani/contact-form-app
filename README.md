@@ -32,4 +32,5 @@ A simple contact form built with React.js, Bootstrap, and Axios that allows user
    ```bash
    npm start
 
-   https://github.com/nileshnwani/contact-form-app/blob/66ab105b0eeddbbcdf499f46951dedc2d57d9d7e/image.png
+## Preview
+![image_alt](https://github.com/nileshnwani/contact-form-app/blob/66ab105b0eeddbbcdf499f46951dedc2d57d9d7e/image.png)
