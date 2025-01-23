@@ -34,3 +34,6 @@ A simple contact form built with React.js, Bootstrap, and Axios that allows user
 
 ## Preview
 ![image_alt](https://github.com/nileshnwani/contact-form-app/blob/66ab105b0eeddbbcdf499f46951dedc2d57d9d7e/image.png)
+
+![image_alt](https://github.com/nileshnwani/contact-form-app/blob/32f77085ca95ee6780f518a09d58c5b84034cf18/image-1.png)
+
